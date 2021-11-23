@@ -15,7 +15,7 @@ Du'a Jaradat
 ---
 
 ## Links 
-- PR :  []()
+- PR :  [Lab 33 ](https://github.com/duajaradat/drf-auth/pull/1)
 
 ## Overview
 
@@ -74,4 +74,8 @@ Let’s move our API closer to production grade by adding Authentication and swi
 - django
 - djange rest-framework
 - docker
+- djange rest-framework-simplejwt
+- django-cors-headers
+- gunicorn
+- whitenoise
 ---
